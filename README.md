@@ -6,6 +6,7 @@ A simple and user-friendly Python GUI application to convert DNG raw image files
 
 
 ![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot_exif.png)
 
 -----
 
