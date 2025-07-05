@@ -6,7 +6,6 @@ A simple and user-friendly Python GUI application to convert DNG raw image files
 
 
 ![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot.png)
-![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot_exif.png)
 
 -----
 
@@ -18,6 +17,8 @@ A simple and user-friendly Python GUI application to convert DNG raw image files
   * **EXIF Metadata Preservation**: All EXIF data from the original DNG file is copied to the converted JPG, maintaining important image information.
   * **Progress Bar**: A real-time progress bar shows the conversion status (Processed/Total files).
   * **User-Friendly GUI**: Built with Tkinter for an intuitive graphical interface.
+
+![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot_exif.png)
 
 -----
 
